@@ -6,6 +6,7 @@ public class ClassStart3 {
 
      Student student1;
      student1 = new Student();
+
      student1.name = "학생1";
      student1.age = 15;
      student1.grade= 90;
